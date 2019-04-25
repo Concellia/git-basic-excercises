@@ -1,0 +1,309 @@
+    1  pwd
+    2  ls -la
+    3  zsh
+    4  sudo apt install zsh
+    5  sudo apt install vscode
+    6  zsh
+    7  zsh
+    8  /home/recruit/Desktop/CHALLENGES/convert.js
+    9  pwd
+   10  date
+   11  ps
+   12  quota
+   13  sudo apt install quota
+   14  quota
+   15  cd Desktop
+   16  new myProject
+   17  cd myProject
+   18  $ myProject
+   19  cd Desktop
+   20  mkdir myProject
+   21  cd myProject
+   22  mkdir app.js
+   23  cd Desktop
+   24  touch tiyi.html
+   25  cd Desktop
+   26  mkdir myProject
+   27  cd Desktop
+   28  mkdir myProject
+   29  cd myProject
+   30  touch app.js
+   31  cd Desktop
+   32  cd /
+   33  cd Desktop
+   34  cd / Desktop
+   35  cd ../
+   36  cd Desktop
+   37  cd ../Desktop
+   38  cd Desktop
+   39  mkdir tiyi
+   40  touch run.html
+   41  cd ../
+   42  cd Download
+   43  cd Desktop
+   44  cd myProject
+   45  cd Desktop
+   46  mkdir myProject
+   47  cd myProject
+   48  touch app.js
+   49  cd ../
+   50  cd Desktop
+   51  mkdir myProject2
+   52  cp app.js myProject2
+   53  cd Desktop
+   54  mkdir myProject
+   55  touch app.js
+   56  cd ../
+   57  cd Desktop
+   58  mkdir myProject2
+   59  cp app.js
+   60  cp ..help
+   61  cp app.js myProject2
+   62  cd Desktop
+   63  cd myProject2
+   64  cp app.js myProject2
+   65  cd ../
+   66  cd myProject
+   67  cp app.js myProject2
+   68  cd Desktop
+   69  mkdir myProject
+   70  cd myProject
+   71  touch app.js
+   72  cd ../
+   73  mkdir myProject2
+   74  cd myProject2
+   75  cp app.js myProject
+   76  cd ../
+   77  cd myProject
+   78  cp app.js myProject2
+   79  cd ../
+   80  cd myProject2
+   81  cp app.js myProject2
+   82  cp app.js Desktop/myProject
+   83  cd Desktop
+   84  cd ../
+   85  cp app.js myProject2
+   86  cd myProject
+   87  cp app.js myProject2
+   88  cp app.js /myProject2
+   89  cp app.js myProject2
+   90  cd ../
+   91  cp /root/Desktop/myProject/app.js /root/Desktop/myProject2
+   92  cat myProject
+   93  cat app.js
+   94  cp app.js myProject2
+   95  cd myProject
+   96  cp app.js myProject2
+   97  cd /
+   98  cd myProject2
+   99  cd Desktop
+  100  cd ../
+  101  cd Desktop
+  102  cd ../
+  103  hostnmae
+  104  hostname
+  105  cd Desktop
+  106  pwd
+  107  cd Desktop
+  108  cd myProject
+  109  cp app.js /home/recruit/Desktop/myProject2
+  110  cd..
+  111  cd ../
+  112  cd myProject2
+  113  ls
+  114  cd../
+  115  cd ../
+  116  cd myProject
+  117  ls
+  118  rm myProject2
+  119  ls
+  120  man
+  121  man pwd
+  122  claer
+  123  clear
+  124  pwd
+  125  sudo
+  126  sudo apt
+  127  sudo apt upgrade
+  128  clear
+  129  df
+  130  clear
+  131  hostname
+  132  clear
+  133  ps
+  134  man ps
+  135  clear
+  136  man quota
+  137  quota
+  138  top
+  139  uptime
+  140  find Tiyiselani
+  141  find TIYISELANI
+  142  find /home/recruit/Desktop/TIYISELANI
+  143  grep Tiyiselani
+  144  pwd
+  145  cd Desktop
+  146  ls
+  147  cd myProject
+  148  ls
+  149  touch myProject2/pop.txt
+  150  touch pop.txt
+  151  ls
+  152  git init
+  153  git add
+  154  git add <file>
+  155  sudo apt install node.js
+  156  clear
+  157  pwd
+  158  cd Desktop/git_practice/
+  159  cd Desktop
+  160  ls
+  161  cd git-practice
+  162  git init
+  163  git status
+  164  node Assignment1/Assignment1.js 
+  165  node Assignment1/Assignment1..JS
+  166  node Assignment1/Assignment1.js
+  167  node Assignment1/Assignment1.JS
+  168  git init
+  169  git status
+  170  touch practice.html
+  171  ls
+  172  cd practice.html
+  173  git status
+  174  git add practice.html
+  175  git status
+  176  git reset HEAD practice.html
+  177  git status
+  178  git add practice.html
+  179  git status
+  180  git reset HEAD practice.html
+  181  git status
+  182  cd Desktop
+  183  git clone https://github.com/Concellia/OOP-Assignment.git
+  184  ls
+  185  cd OOP-Assignment
+  186  ls
+  187  git init
+  188  git status
+  189  touch OOP.html
+  190  ls
+  191  git status
+  192  cope Desktop/Tiyiselani/Assignment/A
+  193  cl
+  194  clear
+  195  cd ../
+  196  cd TIYISELANI/Assignment/
+  197  ls
+  198  cd Assignment
+  199  cd Assignment1
+  200  ls
+  201  cd Assignment1.js OOP-Assignment
+  202  cp Assignment.js OOP-Assignment
+  203  cp Assignment1.js OOP-Assignment
+  204  cd ../../../
+  205  cd OOP-Assignment
+  206  ls
+  207  cd ../
+  208  cd TIYISELANI/Assignment
+  209  ls
+  210  cp Assignment Desktop/OOP-Assignment
+  211  cp Assignment1 Desktop/OOP-Assignment
+  212  cp -r Assignment1 Desktop/OOP-Assignment
+  213  clear
+  214  cd ../../
+  215  ls
+  216  cd OOP-Assignment
+  217  ls
+  218  git init
+  219  git status
+  220  git add Assignment1
+  221  git status
+  222  git commit Assignment1
+  223  git add .
+  224  git add.
+  225  git commit Assignment "Assignment 1 done"
+  226  git commit
+  227  cd Desktop
+  228  mkdir git-basic-excercises
+  229  cd git-basic-excercises
+  230  ls
+  231  ls -a
+  232  git init
+  233  ls -a
+  234  git status
+  235  touch README.md
+  236  ls -a
+  237  git status
+  238  git add README.md
+  239  git status
+  240  git rm --cached README.md
+  241  git status
+  242  git add README.md
+  243  git status
+  244  git commit -m "initial commit"
+  245  git log
+  246  q
+  247  quit
+  248  q
+  249  nano README.md
+  250  cat README.md
+  251  pwd
+  252  ls
+  253  nano README.md
+  254  cat README.md
+  255  git status
+  256  pwd
+  257  ls
+  258  rm README.mdesy
+  259  ls
+  260  ls -a
+  261  git status
+  262  git add README.md
+  263  git status
+  264  git commit -m "second commit"
+  265  git status
+  266  nano README.md
+  267  cat README.md
+  268  nano README.md
+  269  cat README.md
+  270  git status
+  271  git add README.md
+  272  git status
+  273  git commit -m "third commit"
+  274  git status
+  275  git log
+  276  q
+  277  sudo apt install python-q-text-as-data
+  278  q
+  279  git checkout 76505e554ae7d106fb6bcd5c461de9ce7b4deeb6
+  280  cat README.md
+  281  git checkout master
+  282  cat README.md
+  283  git brach
+  284  git branch
+  285  git branch milkshake-flavours
+  286  git branch
+  287  git status
+  288  ls
+  289  git checkout milkshake-flavours
+  290  git branch
+  291  git checkout master
+  292  git branch
+  293  branch checkout milkshake-flavours
+  294  git checkout milkshake-flavours
+  295  git branch
+  296  nano milkshake.md
+  297  git status
+  298  git add milkshake.md
+  299  git status
+  300  git commit -m "added initial flavours"
+  301  git status
+  302  git log
+  303  git checkout master
+  304  git branch
+  305  git checkout history
+  306  git branch history
+  307  git checkout history
+  308  git log
+  309  history > history.txt
